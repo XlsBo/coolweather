@@ -30,4 +30,12 @@ public class City {
 	public void setCityCode(String cityCode) {
 		this.cityCode = cityCode;
 	}
+	
+	public int getProvinceId() {
+		return provinceId;
+	}
+	
+	public void setProvinceId(int provinceId) {
+		this.provinceId = provinceId;
+	}
 }
